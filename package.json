@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "express":"4.17.3",
+    "express":"4.21.2",
     "body-parser": "1.19.2",
     "@angular/animations": "~13.3.0",
     "@angular/common": "~13.3.0",
